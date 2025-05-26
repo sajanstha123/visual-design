@@ -19,19 +19,19 @@ type();
 
 const projects = [
 {
-    image : "image/BMI.jpg",
+    image : "image/logohacker.gpj.jpg",
     title : "Body Mass Index",
     description : "This project is about to calculate the body mass index(BMI)",
     src: "https://nimadandu.github.io/projectBMI/",
 },
 {
-    image : "./image/pexels-cody-berg-463684.jpg",
+    image : "image/hacker.j[g.jfif",
     title : " Animated Navbar",
     description : "A responsive navigation bar with smooth animation and",
     src: "https://nimadandu.github.io/projectBMI/",
 },
 {
-image : "./image/pexels-cody-berg-463684.jpg",
+image : "image/stock.jpg",
 title : " Animated Navbar",
 description : "A responsive navigation bar with smooth animation and",
 src:"https://nimadandu.github.io/projectBMI/",
@@ -53,7 +53,7 @@ projects.forEach(project=> {
 //service card
 const services = [
     {
-        Image : "./image/html5-css3-hd.jpg",
+        Image : "image/khacker.ggg.jfif",
         Title :"service box",
         Description : "This is a service div "
     },
@@ -75,17 +75,17 @@ services.forEach(projects=> {
 
 const review = [
 {
-    images : "./image/pexels-kevin-ku-92347-577585.jpg",
-    titles : " Elon Musk",
+    images : "image/sajan.jpg - Copy.webp",
+    titles : " Sajan kumar shrestha",
     descriptions : "Great work! very creative and professional",
 },
 {
-    images : "./image/pexels-kevin-ku-92347-577585.jpg",
+    images : "image/sajan.jpg - Copy.webp",
     titles : " Sagun Babu Adhikari",
     descriptions : "Great work! very creative and professional",
 },
 {
-    images : "./image/pexels-kevin-ku-92347-577585.jpg",
+    images : "image/sajan.jpg - Copy.webp",
     titles : " Nima Dandu sherpa",
     descriptions : "Great work! very creative and professional",
 },
